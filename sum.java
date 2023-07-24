@@ -10,6 +10,6 @@ public class Geeks {
 		int b = 18;
 		// It will return the sum of two arguments.
 		System.out.println("The sum is ="
-						+ Integer.sum( a, b);
+						+ Integer.sum("The sum is" + (a, b));
 	}
 }
